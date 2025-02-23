@@ -1,6 +1,4 @@
 dataset
 detr_finetuned_on_Cars.pth
-test
-test_result
 stream.py
 requirements.txt
