@@ -20,3 +20,5 @@ This project demonstrates the implementation of **DeTr** (Detection Transformer)
 ![Image 1](test_result/1.jpg)
 ![Image 1](test_result/2.jpg)
 ![Image 1](test_result/3.jpg)
+
+The model was fine-tuned on a limited dataset with just 5 epochs of training. While the performance can be further improved with more data and training time, the current results demonstrate the potential of DeTr for object detection on custom datasets.
